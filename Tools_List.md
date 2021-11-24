@@ -7,4 +7,6 @@ DEV:
 * Gitlab
 
 QA/Testing: 
-* 
+* Manual
+* Automated
+** ????
