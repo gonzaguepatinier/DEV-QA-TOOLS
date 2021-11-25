@@ -2,11 +2,12 @@ List of DEV / QA tools for testing by my LinkedIn Friends
 
 Requirements Definition:
 * Sharepoint (Excel / Word / Visio)
-* Jira
-
+* Jira (https://www.atlassian.com/software/jira)
+ 
 DEV:
 * Gitlab
-
+* Github (https://github.com/)
+ 
 QA/Testing: 
 * Manual
 * Automated
